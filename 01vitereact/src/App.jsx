@@ -1,10 +1,9 @@
 
-
+import Header from "./myComp/Header";
 function App() {
 
   return (
-    <h1>Niharikaaaaa</h1>
+    <Header/>
   )
 }
-
-export default App
+export default App;
